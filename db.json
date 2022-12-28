@@ -2,39 +2,33 @@
   "TodoList": [
     {
       "id": 0,
-      "header": "test json",
-      "description": "test",
-      "timeForDo": "10 minutes"
+      "title": "test json",
+      "body": "testing",
+      "execution_time": "1000"
     },
     {
       "id": 1,
-      "header": "todo",
-      "description": "test",
-      "timeForDo": "10 hours"
+      "title": "test json",
+      "body": "testing",
+      "execution_time": "1000"
     },
     {
       "id": 2,
-      "header": "tod",
-      "description": "test",
-      "timeForDo": "10 hours"
+      "title": "test json",
+      "body": "testing",
+      "execution_time": "1000"
     },
     {
       "id": 3,
-      "header": "tod",
-      "description": "test",
-      "timeForDo": "10 hours"
+      "title": "test json",
+      "body": "testing",
+      "execution_time": "1000"
     },
     {
       "id": 4,
-      "header": "tod",
-      "description": "test",
-      "timeForDo": "10 hours"
-    },
-    {
-      "id": 5,
-      "header": "tod",
-      "description": "test",
-      "timeForDo": "10 hours"
+      "title": "test json",
+      "body": "testing",
+      "execution_time": "1000"
     }
   ]
 }
