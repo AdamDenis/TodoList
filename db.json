@@ -1,12 +1,12 @@
 {
   "TodoList": [
     {
-      "header": "tod",
+      "header": "test json",
       "description": "test",
-      "timeForDo": "10 hours"
+      "timeForDo": "10 minutes"
     },
     {
-      "header": "tod",
+      "header": "todo",
       "description": "test",
       "timeForDo": "10 hours"
     },
